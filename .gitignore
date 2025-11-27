@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Environment / secrets
+.env
+
+# Mac junk
+.DS_Store
+
+# ADK / temp
+*.log
+*.tmp
